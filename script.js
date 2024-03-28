@@ -271,6 +271,7 @@ var c = function(nums1, nums2){
     console.log(merged[Math.floor(n / 2)]);
   }
 }(array1,array2);
+
 */
 
 //1f.Return median of two sorted arrays of same size  using IIFE function:
@@ -290,6 +291,7 @@ const array4=[9,7,10,8,6];
     console.log(merged[Math.floor(n / 2)]);
   }
 })(array3,array4);
+
 */
 
 //-----------------------------------------------------------------------------------------------------------------------------------------
